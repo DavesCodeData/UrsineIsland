@@ -17,10 +17,10 @@ The code is inspired by https://github.com/pokepetter/pyweek_30_castaway
 To get the ursina zip click here https://github.com/pokepetter/ursina/archive/master.zip
   
 Main menu scene
-![MadIsland Intro](https://github.com/CEOpoverty/MadIsland-ursina/blob/master/LoadedMenu.png)
+![UrsineIsland Intro](https://github.com/DavesCodeData/UrsineIsland/blob/master/LoadedMenu.png)
 View from when you open the gates
-![other side of gates](https://github.com/CEOpoverty/MadIsland-ursina/blob/master/pic1.png)
+![other side of gates](https://github.com/DavesCodeData/UrsineIslanda/blob/master/pic1.png)
 View from the roof of a buidling
-![roof view](https://github.com/CEOpoverty/MadIsland-ursina/blob/master/OntheRoof.png)
+![roof view](https://github.com/DavesCodeData/UrsineIsland/blob/master/OntheRoof.png)
 
 MIT license
