@@ -1,3 +1,5 @@
+This is all just me experimenting and learning, have fun with it!
+
 How to run on Windows:
 
 1) Install the most recent version of ursina with "pip install."
