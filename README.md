@@ -1,4 +1,4 @@
-This is all just me experimenting and learning, have fun with it!
+This is all just me experimenting and learning, have fun with it! If you are curious Ursine means in relation to bears which is where Ursina gets it name because it is built off of Panda 3D.
 
 How to run on Windows:
 
